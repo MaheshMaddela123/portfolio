@@ -130,9 +130,9 @@ const Education = () => {
                   </p>
                 </div>
               </AnimatedSection> */}
-            ))}
+            {/* ))}
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
