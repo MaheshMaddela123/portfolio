@@ -104,7 +104,7 @@ const Education = () => {
         </div>
 
         {/* Certifications */}
-        <div className="mb-16">
+        {/* <div className="mb-16">
           <AnimatedSection>
             <h3 className="text-2xl font-semibold text-gray-900 mb-8 flex items-center">
               <Award className="text-emerald-600 mr-3" size={28} />
@@ -129,7 +129,7 @@ const Education = () => {
                     {cert.year}
                   </p>
                 </div>
-              </AnimatedSection>
+              </AnimatedSection> */}
             ))}
           </div>
         </div>
